@@ -122,6 +122,8 @@ async def send_welcome_message_to_admin(connection, user_id, admin_ids, _bot):
     except Exception as e:
         logging.exception("Не удалось отправить сообщение в личный чат.")
 
-ФУЛЛ КОД 50$ @STUFFY_LZT                 ФУЛЛ КОД 50$ @STUFFY_LZT                         ФУЛЛ КОД 50$ @STUFFY_LZT                      ФУЛЛ КОД 50$ @STUFFY_LZT                  ФУЛЛ КОД 50$ @STUFFY_LZT
-      ФУЛЛ КОД 50$ @STUFFY_LZT          ФУЛЛ КОД 50$ @STUFFY_LZT                                        ФУЛЛ КОД 50$ @STUFFY_LZT                             ФУЛЛ КОД 50$ @STUFFY_LZT
-ФУЛЛ КОД 50$ @STUFFY_LZT      ФУЛЛ КОД 50$ @STUFFY_LZT                    ФУЛЛ КОД 50$ @STUFFY_LZT                                ФУЛЛ КОД 50$ @STUFFY_LZT                              ФУЛЛ КОД 50$ @STUFFY_LZT
+ФУЛЛ КОД 100$ @STUFFY_LZT                 ФУЛЛ КОД 100$ @STUFFY_LZT                         ФУЛЛ КОД 100$ @STUFFY_LZT                      ФУЛЛ КОД 100$ @STUFFY_LZT                  ФУЛЛ КОД 100$ @STUFFY_LZT
+ФУЛЛ КОД 100$ @STUFFY_LZT                 ФУЛЛ КОД 100$ @STUFFY_LZT                         ФУЛЛ КОД 100$ @STUFFY_LZT                      ФУЛЛ КОД 100$ @STUFFY_LZT                  ФУЛЛ КОД 100$ @STUFFY_LZT
+ФУЛЛ КОД 100$ @STUFFY_LZT                 ФУЛЛ КОД 100$ @STUFFY_LZT                         ФУЛЛ КОД 100$ @STUFFY_LZT                      ФУЛЛ КОД 100$ @STUFFY_LZT                  ФУЛЛ КОД 100$ @STUFFY_LZT
+ФУЛЛ КОД 100$ @STUFFY_LZT                 ФУЛЛ КОД 100$ @STUFFY_LZT                         ФУЛЛ КОД 100$ @STUFFY_LZT                      ФУЛЛ КОД 100$ @STUFFY_LZT                  ФУЛЛ КОД 100$ @STUFFY_LZT
+ФУЛЛ КОД 100$ @STUFFY_LZT                 ФУЛЛ КОД 100$ @STUFFY_LZT                         ФУЛЛ КОД 100$ @STUFFY_LZT                      ФУЛЛ КОД 100$ @STUFFY_LZT                  ФУЛЛ КОД 100$ @STUFFY_LZT
